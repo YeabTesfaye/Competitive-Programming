@@ -1,3 +1,3 @@
 # Competitive-Programming
-python
-leet code 
+python Js 
+leet code  Competitive-Programming
