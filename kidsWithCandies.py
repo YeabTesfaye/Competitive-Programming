@@ -1,6 +1,4 @@
 def kidsWithCandies(candies, extraCandies: int):
-    
-
     return [c+ extraCandies >= max(candies) for c in candies]
 
 
